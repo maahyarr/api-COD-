@@ -1,0 +1,80 @@
+{
+  "menu": [
+    { "name": "home", "id": "1", "link": "www.google.com" }
+  ],
+  "bgVid": [
+    {
+      "bgimg": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHh3YTVyMHN4ZXNydmFvemUweGF2M3pxcnV5MjNwNjMwb2xlODRleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OwqqmRgNcd68IUScs9/giphy.gif",
+      "svg": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/hub/v2023/hero/2025/06/COD_BO7_LOGO_NEG.svg",
+      "p": "In Call of Duty®: Black Ops 7, Treyarch and Raven Software are bringing players the biggest Black Ops ever.",
+      "button": "Learn More"
+    }
+  ],
+  "xbox": [
+    {
+      "svg": "https://www.callofduty.com/content/dam/atvi/global/firstparty/xbox-game-pass/xbox_game_pass_white.svg",
+      "p": "Play Call of Duty: Black Ops 7 on console, PC and cloud with Xbox Game Pass.†",
+      "button": "Join Now"
+    }
+  ],
+  "cards": [
+    {
+      "img1": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/hub/v2023/touts/2025/10/COD-HP_Primary-Tout_S6_Desktop-LG.webp",
+      "p1": "Frighten foes with the Dread BlackCell Operator, “Modified Lifeform” Mastercraft Blueprint, and more!",
+      "b1": "Level Up",
+      "title1": "BLACKCELL",
+      "svg1": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/hub/v2023/cod-eyebrow.svg",
+      "img2": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/hub/v2023/touts/2025/10/COD-HP_Secondary-Tout_WZ_The-Haunting.webp",
+      "b2": "Deploy now",
+      "p2": "COD: WZ THE HAUNTING",
+      "p3": "BO6 | COD: WZ THE HAUNTING",
+      "title2": "UNLEASH THE NIGHTMARE",
+      "img3": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/hub/v2023/touts/2025/10/COD-HP_Secondary-Tout_WZ_S6.webp",
+
+      "title3": "HORROR RETURNS IN THE HAUNTING",
+      "b3": "BRING THE FEAR",
+      "news": [
+        {
+          "pic1": "featured",
+          "dec1": "Black Ops 7 Season 01: Complete Intel",
+          "pic2": "BO7-SEASON-01-ANNOUNCEMENT-TOUT.jpg",
+          "dec2": ["BO7", "WZ"],
+          "pic3": "BO7-SEASON-01-ANNOUNCEMENT-TOUT.jpg",
+          "dec3": ["BO7", "WZ"],
+          "pic4": "BO7-SEASON-01-ANNOUNCEMENT-TOUT.jpg",
+          "dec4": ["BO7", "WZ"]
+        }
+      ]
+    }
+  ],
+  "get": [
+    {
+      "pic1": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/store/games/bo7/Chimera_COD-HP_GTG.webp",
+      "dec1": "Black Ops 7",
+      "name": "Call of Duty",
+      "pic2": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/store/games/wz/overview/bo6-season-3/COD-HP_WZ_Get-The-Game.webp",
+      "dec2": "Warzone",
+
+      "pic3": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/store/games/listings/GamesPLP_CODM.webp",
+      "dec3": "Mobile",
+
+      "pic4": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/store/games/listings/BO6_PLPCard_Hero.webp",
+      "dec4": "Black Ops 6"
+    }
+  ],
+  "footer": [
+    {
+      "pic1": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/store/games/bo7/Chimera_COD-HP_GTG.webp",
+      "dec1": "Black Ops 7",
+      "name": "Call of Duty",
+      "pic2": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/store/games/wz/overview/bo6-season-3/COD-HP_WZ_Get-The-Game.webp",
+      "dec2": "Warzone",
+
+      "pic3": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/store/games/listings/GamesPLP_CODM.webp",
+      "dec3": "Mobile",
+
+      "pic4": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/store/games/listings/BO6_PLPCard_Hero.webp",
+      "dec4": "Black Ops 6"
+    }
+  ]
+}
